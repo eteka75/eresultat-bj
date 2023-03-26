@@ -2,18 +2,15 @@
 <html lang="fr">
 
   <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">  
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="Wilfried ETEKA">
-
-  <title>eResultat - Consultez vos résultats à Université de Parakou</title>
-
-  <link href="./assets/css/app.css" rel="stylesheet">
-  
-</head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+      <link rel="icon" href="favicon.ico" type="image/x-icon">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="">
+      <meta name="author" content="Wilfried ETEKA">
+      <title>eResultat - Consultez vos résultats à Université de Parakou</title>
+      <link href="./assets/css/app.css" rel="stylesheet">  
+  </head>
 <body>
 
   <main class="main" role="main">
