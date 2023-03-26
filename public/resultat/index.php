@@ -2,7 +2,7 @@
 <?php
 # Inclure le fichier des fonctions
 function ConnectBDD($type="mysql"){
-	 $host = "localhost";$db = "okapiCollegeDB"; $user = "postgres"; $password = "0kapic0llege";
+	 $host = "localhost";$db = "Db__01"; $user = "user"; $password = "@@@@@@";
 	 try {
                 $dsn = "pgsql:host=$host;port=5432;dbname=$db;";
                 $conn = new PDO($dsn, $user, $password, [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
